@@ -1,4 +1,4 @@
-# ChainSkills Truffle Box
+# Truffle Box
 
 ## Installation
 
